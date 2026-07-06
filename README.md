@@ -64,8 +64,9 @@ If you find DNA useful for your research or development, please cite the followi
   title={GCNs meet long-tail: Embedding norm bias in GCN-based recommendations},
   author={Choi, Yeo Jun and Yun, Woo-Seong and Jeong, Chanwoo and Cho, Yoon-Sik},
   journal={Applied Soft Computing},
+  volume={186},
   pages={114226},
-  year={2025},
+  year={2026},
   publisher={Elsevier}
 }
 ```
