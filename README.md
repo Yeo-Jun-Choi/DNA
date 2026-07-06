@@ -1,6 +1,6 @@
 # [Applied Soft Computing] GCNs Meet Long-Tail: Embedding Norm Bias in GCN-Based Recommendations
 
-[![View Paper](https://img.shields.io/badge/View%20Paper-PDF-red?logo=adobeacrobatreader)](https://www.sciencedirect.com/science/article/abs/pii/S156849462501539X)
+[![View Paper](https://img.shields.io/badge/View%20Paper-PDF-red?logo=adobeacrobatreader)](https://www.sciencedirect.com/science/article/abs/pii/S156849462501539X) [![DOI](https://img.shields.io/badge/DOI-10.1016/j.asoc.2025.114226-blue)](https://doi.org/10.1016/j.asoc.2025.114226)
 
 # Requirements
 python 3.8.18, cuda 11.8, and the following installations:
